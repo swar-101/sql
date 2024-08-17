@@ -133,8 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -146,7 +145,7 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "1f420570d19d5b25",
+  "active": "c80701e2294fdc22",
   "lastOpenFiles": [
     "SQL Tips/walruses-for-sql-tip.png",
     "SQL Tips/SQL Tips.md",

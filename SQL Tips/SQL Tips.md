@@ -1,4 +1,4 @@
-![[walruses-for-sql-tip.png]]
+![Walruses on Icebergs🦭](./walruses-for-sql-tip.png)
 
 "Some Friendly Walruses Go Hunting On Lonely Icebergs"
 SELECT 
