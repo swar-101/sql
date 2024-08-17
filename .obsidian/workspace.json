@@ -13,7 +13,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "SQL Syntax/SQL Syntax.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "969c3ef8f5bfff2c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL Syntax/SQL Syntax.md",
                 "mode": "source",
                 "source": false
               }
@@ -55,7 +67,8 @@
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "SQL Syntax/SQL Syntax.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "SQL Syntax/SQL Syntax.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "SQL Syntax/SQL Syntax.md"
               }
             }
           }
@@ -182,10 +195,10 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "435f21f8c8657e79",
+  "active": "969c3ef8f5bfff2c",
   "lastOpenFiles": [
-    "DDL/DDL.md",
     "README.md",
+    "DDL/DDL.md",
     "DDL",
     "LICENSE",
     "SQL Syntax/SQL Syntax.md",
