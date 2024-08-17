@@ -4,7 +4,7 @@
 1. [SQL Syntax](./SQL%20Syntax/SQL%20Syntax.md)
 2. [DML (Data Manipulation Language)](SQL%20DML.md)
 3. [SQL Joins](./SQL%20JOIN/README-sql-joins.md)
-	INNER JOIN
+	[INNER JOIN](./SQL%20JOIN/INNER%20JOIN.md)
 	LEFT JOIN
 	RIGHT JOIN
 	FULL JOIN

@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "DDL/DDL.md",
                 "mode": "source",
                 "source": false
               }
@@ -121,7 +121,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "DDL/DDL.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -138,7 +138,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "DDL/DDL.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -161,7 +161,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "DDL/DDL.md"
               }
             }
           }
@@ -184,10 +184,12 @@
   },
   "active": "435f21f8c8657e79",
   "lastOpenFiles": [
+    "README.md",
+    "DDL/DDL.md",
+    "DDL",
     "LICENSE",
     "SQL Syntax/SQL Syntax.md",
     "SQL DML/SQL DML.md",
-    "README.md",
     "SQL Syntax",
     "SQL Joins/FULL JOIN/FULL JOIN.md",
     "SQL Joins/LEFT JOIN/LEFT JOIN.md",
@@ -205,8 +207,6 @@
     "SQL Joins/INNER JOIN/INNER JOIN.md",
     "SQL JOIN",
     "SQL DML",
-    "SQL Joins/INNER JOIN",
-    "SQL Joins",
-    "SQL Tips"
+    "SQL Joins/INNER JOIN"
   ]
 }
