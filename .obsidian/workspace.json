@@ -4,71 +4,22 @@
     "type": "split",
     "children": [
       {
-        "id": "2e9d4f007c5c17e6",
+        "id": "abcb1c35cf67bd7d",
         "type": "tabs",
         "children": [
           {
-            "id": "435f21f8c8657e79",
+            "id": "1f420570d19d5b25",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "SQL Syntax/SQL Syntax.md",
+                "file": "SQL Tips/SQL Tips.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "969c3ef8f5bfff2c",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL Syntax/SQL Syntax.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "00dce880944d8873",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL DML/SQL DML.md",
-                "mode": "preview",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "20235a66cfcebbf4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL DML/SQL DML.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "8965940458ffb788",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "SQL Joins/SQL Joins.md",
-                "mode": "preview",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -134,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "SQL Syntax/SQL Syntax.md",
+                "file": "SQL Tips/SQL Tips.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "SQL Syntax/SQL Syntax.md",
+                "file": "SQL Tips/SQL Tips.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "SQL Syntax/SQL Syntax.md"
+                "file": "SQL Tips/SQL Tips.md"
               }
             }
           }
@@ -195,14 +146,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "969c3ef8f5bfff2c",
+  "active": "1f420570d19d5b25",
   "lastOpenFiles": [
+    "SQL Tips/walruses-for-sql-tip.png",
+    "SQL Tips/SQL Tips.md",
     "README.md",
+    "SQL Syntax/SQL Syntax.md",
+    "SQL DML/SQL DML.md",
+    "SQL Joins/SQL Joins.md",
     "DDL/DDL.md",
     "DDL",
     "LICENSE",
-    "SQL Syntax/SQL Syntax.md",
-    "SQL DML/SQL DML.md",
     "SQL Syntax",
     "SQL Joins/FULL JOIN/FULL JOIN.md",
     "SQL Joins/LEFT JOIN/LEFT JOIN.md",
@@ -215,8 +169,6 @@
     "SQL Joins/Untitled.canvas",
     "SQL Joins/LEFT JOIN",
     "SQL JOIN/README-sql-joins.md",
-    "SQL Tips/SQL Tips.md",
-    "SQL Joins/SQL Joins.md",
     "SQL Joins/INNER JOIN/INNER JOIN.md",
     "SQL JOIN",
     "SQL DML",

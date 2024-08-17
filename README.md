@@ -4,8 +4,8 @@
 
 1. **[SQL Syntax](./SQL%20Syntax/SQL%20Syntax.md)**  
    Get acquainted with the fundamental SQL syntax, including clauses and operators.
-
-2. **[DML (Data Manipulation Language)](SQL%20DML.md)**  
+2. DDL (Data Definition Language)
+3. **[DML (Data Manipulation Language)](./SQL%20DML/SQL%20DML.md)**  
    Understand the core CRUD operations (Create, Read, Update, Delete) for manipulating data.
 
 3. **[SQL Joins](./SQL%20JOIN/README-sql-joins.md)**  
@@ -15,6 +15,16 @@
    - **[RIGHT JOIN](./SQL%20JOIN/README-sql-joins.md#right-join)**  
    - **[FULL JOIN](./SQL%20JOIN/README-sql-joins.md#full-join)**  
    - **[SELF JOIN](./SQL%20JOIN/README-sql-joins.md#self-join)**
+4. Aggregate Queries
+5. Subqueries
+- IN
+- FROM
+- ALL, ANY
+- Correlational Subqueries
+- EXISTS
 
+1. Views
+2. Indexing
+3. Transactions
 4. **[Tips for Remembering SQL Order](SQL%20Tips.md)**  
    Handy tips and tricks to help you remember SQL query ordering and syntax.
